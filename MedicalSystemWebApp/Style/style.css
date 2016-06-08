@@ -1,0 +1,96 @@
+﻿html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+    border:0;
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 14px; line-height: 15px;
+    color:white;
+}
+a:link { color:wheat}
+a:visited{ color: #ede3e3; }
+a:hover{ color: #d9caca; }
+
+fieldset {
+    width:550px;
+}
+th, td {
+    padding:10px;
+}
+
+#body {
+     min-height:530px;
+     margin:0px;padding:0px;
+     overflow:auto;
+    background-color: #3B5998;
+     
+}
+#header {
+    height: 80px;  
+    padding: 0; text-align: left;
+    background-color: #13487c;
+}
+    #header h2{
+        padding:30px 5px 5px 15px;
+        margin:0px;
+        text-align:left;
+    }
+
+#navigation { 
+    float:left;
+    height:inherit;	
+    width:20%;
+
+}
+    #navigation ul{
+        margin-top:30px;
+        list-style:none;
+    }
+        #navigation li{
+            padding:4px;
+            text-decoration:none;
+
+        }
+            #navigation ul a{
+                font-size:1em;
+            }
+#page {
+    height:inherit;
+     float:left;
+     background-color: #4e6ba9;
+     min-height:530px;
+     margin:0px;padding:0px;
+     overflow:auto;
+    width:80%;
+}
+    #page form {
+        margin:20px;
+    }
+        #page form table{
+            margin:15px 15px 10px 0px           
+        }
+#footer { 
+	 clear:both;
+    text-align:center;
+    padding:5px;
+    background: #1A446C;  color: #D4E6F4;  
+}
+
+.gridViewBorder{
+    border: solid 1px #dbddff;
+}
+
+#testTable {
+    border-collapse:collapse;
+}
+#testTable th,#testTable td {
+   border: .5px solid #dbddff;
+   padding: 7px 30px 7px 30px;
+    text-align: left;
+}
+

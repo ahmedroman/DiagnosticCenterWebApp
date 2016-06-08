@@ -1,0 +1,16 @@
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.dll.config
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.dll
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.pdb
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.dll
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.pdb
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\bin\itextsharp.dll
+C:\Users\Roman\documents\visual studio 2013\Projects\MedicalSystemWebApp\MedicalSystemWebApp\bin\itextsharp.xml
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.dll
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\obj\Debug\MedicalSystemWebApp.pdb
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.dll.config
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.dll
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\bin\MedicalSystemWebApp.pdb
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\bin\itextsharp.dll
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\DiagnosticCenterWebApp\MedicalSystemWebApp\bin\itextsharp.xml

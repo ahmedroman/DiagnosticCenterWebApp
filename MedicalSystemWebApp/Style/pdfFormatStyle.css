@@ -1,0 +1,25 @@
+﻿
+#myTable {
+    border :1px;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+#main {
+    margin-right: auto; 
+    margin-left: auto;
+    width: 600px;
+}
+#pdfFormatheader {
+    margin: 40px 70px 30px 70px;
+}
+
+#pdfFormatheadermainBody {
+     width: 50%;
+    margin: 0 auto; 
+}
+    #pdfFormatheadermainBody table {
+        margin-top:30px;
+        text-align:left;
+    }
